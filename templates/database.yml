@@ -4,7 +4,7 @@
 # Line indentation must be 2 spaces (no tabs).
 
 production:
-  adapter: mysql2
+  adapter: postgresql
   database: {{ redmine_db }}
   host: localhost
   username: {{ redmine_dbuser }}

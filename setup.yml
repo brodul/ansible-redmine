@@ -1,5 +1,5 @@
 ---
-- hosts: redmine
+- hosts: LTFE
   sudo: True
 
   vars_files:

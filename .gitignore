@@ -1,1 +1,6 @@
 .vagrant
+
+/bin
+/include
+/lib
+/share
